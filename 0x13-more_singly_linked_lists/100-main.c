@@ -10,6 +10,7 @@
 int main(void)
 {
     listint_t *head;
+
     head = NULL;
     add_nodeint_end(&head, 0);
     add_nodeint_end(&head, 1);
